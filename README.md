@@ -16,4 +16,4 @@
     - d. CD step: Deploy new application version to EKS cluster.
     - e. CD step: Commit the version update.
   ---
-*Module 11: Kubernetes on AWS - EKS*
+*Kubernetes on AWS - EKS*
