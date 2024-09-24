@@ -10,4 +10,4 @@
 - Create EKS cluster with Terraform
 - Write Ansible Play to deploy application in a new K8s namespace
 ---
-*Module 15: Configuration Management with Ansible*
+*Configuration Management with Ansible*
