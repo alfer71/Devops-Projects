@@ -1,4 +1,4 @@
-## This are my DevOps Projects Repos, and each projects are in Branches 
+## This are my DevOps Projects Repos, and each projects are stored in Branches that you can view them. 
 
 ### Project 1:
 - Complete CI/CD Pipeline with EKS and AWS ECR.
