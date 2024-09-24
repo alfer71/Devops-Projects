@@ -7,7 +7,8 @@
 ---
 
 **Project Description:**
-Integrate provisioning stage into complete CI/CD Pipeline to automate provisioning server instead of deploying to an existing server
+Integrate provisioning stage into complete CI/CD Pipeline to automate provisioning server instead of deploying to an existing server.
+
 - Create SSH Key Pair
 - Install Terraform inside Jenkins container
 - Add Terraform configuration to application’s git repository
