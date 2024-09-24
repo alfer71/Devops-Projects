@@ -1,17 +1,15 @@
-### Project 1:
-- Complete CI/CD Pipeline with EKS and AWS ECR.
+## Project 4:
+### Deploy Microservices application in Kubernetes with Production & Security Best Practices.
 
-### Project 2:
-- Automate Kubernetes Deployment.
+**Technologies used:**
+*Kubernetes, Redis, Linux, Linode LKE*
 
-### Project 3:
-- Complete CI/CD with Terraform.
+---
 
-### Project 4:
-- Deploy MS application in K8s.
+**Project Description:**
+- Create K8s manifests for Deployments and Services for all microservices of an online shop application.
+- Deploy microservices to Linode’s managed Kubernetes cluster.
 
-### Project 5:
-- Ansible Integration in Jenkins.
+---
 
-### Project 6:
-- Website Monitoring and Recovery
+*Container Orchestration with Kubernetes.*
