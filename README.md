@@ -1,17 +1,18 @@
-### Project 1:
-- Complete CI/CD Pipeline with EKS and AWS ECR.
+## Project 6:
+### Website Monitoring and Recovery
 
-### Project 2:
-- Automate Kubernetes Deployment.
+**Technologies used:**
+*Python, Linode, Docker, Linux*
 
-### Project 3:
-- Complete CI/CD with Terraform.
+---
 
-### Project 4:
-- Deploy MS application in K8s.
+**Project Description:**
+- Create a server on a cloud platform.
+- Install Docker and run a Docker container on the remote server.
+- Write a Python script that monitors the website by accessing it and validating the HTTP response.
+- Write a Python script that sends an email notification when the website is down.
+- Write a Python script that automatically restarts the application & server when the application is down.
 
-### Project 5:
-- Ansible Integration in Jenkins.
+---
 
-### Project 6:
-- Website Monitoring and Recovery
+*Automation with Python*
