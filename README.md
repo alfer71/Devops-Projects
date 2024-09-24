@@ -21,4 +21,4 @@ Integrate provisioning stage into complete CI/CD Pipeline to automate provisioni
 
 ---
 
-*Module 12: Infrastructure as Code with Terraform*
+*Infrastructure as Code with Terraform*
